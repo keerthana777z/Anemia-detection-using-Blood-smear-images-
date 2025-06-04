@@ -141,8 +141,11 @@ jupyter notebook
 
 🔬 Multi-class classification for anemia types (e.g., iron-deficiency, sickle cell)
 
+
+
+
 👩‍💻 Author
-AR Keerthana
+**AR Keerthana**
 
 📄 License
 This project is licensed under the MIT License – free to use, improve, and distribute.
